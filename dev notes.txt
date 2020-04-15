@@ -1,0 +1,8 @@
+npm install --save axios
+npm install --save react-chartjs-2
+npm install --save react-countup
+
+
+chart.js 
+yarn add chart.js 
+

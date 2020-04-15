@@ -1,0 +1,33 @@
+.infected, .recovered, .deaths {
+    border-color: rgb(231, 231, 231);
+    background-color: white !important;
+}
+
+@media(max-width: 767px) {
+    .infected, .recovered, .deaths {
+        margin-bottom: 10px !important;
+        width: 100% !important;
+    }
+}
+
+.date{
+    color: rgb(221, 221, 221);
+}
+
+/* infected card */
+.infected {
+    background-color:rgb(27, 161, 161) !important; 
+    color: white !important;
+}
+
+/* recovered card */
+.recovered {
+    background-color:rgb(98, 179, 102) !important; 
+    color: white !important;
+}
+
+/* recovered card */
+.deaths {
+    background-color:rgb(192, 75, 75) !important; 
+    color: white !important;
+}
