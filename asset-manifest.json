@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/coronavirus-app/static/css/main.980de7d0.chunk.css",
+    "main.js": "/github.io/coronavirus-app/static/js/main.9a35f099.chunk.js",
+    "main.js.map": "/github.io/coronavirus-app/static/js/main.9a35f099.chunk.js.map",
+    "runtime-main.js": "/github.io/coronavirus-app/static/js/runtime-main.cc836426.js",
+    "runtime-main.js.map": "/github.io/coronavirus-app/static/js/runtime-main.cc836426.js.map",
+    "static/css/2.89f067aa.chunk.css": "/github.io/coronavirus-app/static/css/2.89f067aa.chunk.css",
+    "static/js/2.4d01ede2.chunk.js": "/github.io/coronavirus-app/static/js/2.4d01ede2.chunk.js",
+    "static/js/2.4d01ede2.chunk.js.map": "/github.io/coronavirus-app/static/js/2.4d01ede2.chunk.js.map",
+    "index.html": "/github.io/coronavirus-app/index.html",
+    "precache-manifest.a3f80cddd00d2fffc7926307735768db.js": "/github.io/coronavirus-app/precache-manifest.a3f80cddd00d2fffc7926307735768db.js",
+    "service-worker.js": "/github.io/coronavirus-app/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/github.io/coronavirus-app/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.980de7d0.chunk.css.map": "/github.io/coronavirus-app/static/css/main.980de7d0.chunk.css.map",
+    "static/js/2.4d01ede2.chunk.js.LICENSE.txt": "/github.io/coronavirus-app/static/js/2.4d01ede2.chunk.js.LICENSE.txt",
+    "static/media/CoronaVirusHeader.jpg": "/github.io/coronavirus-app/static/media/CoronaVirusHeader.2c34cc69.jpg",
+    "static/media/loading.gif": "/github.io/coronavirus-app/static/media/loading.63eb7825.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc836426.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.4d01ede2.chunk.js",
+    "static/css/main.980de7d0.chunk.css",
+    "static/js/main.9a35f099.chunk.js"
+  ]
+}
